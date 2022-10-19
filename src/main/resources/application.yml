@@ -1,0 +1,9 @@
+camel:
+  component:
+    servlet:
+      mapping:
+        contextPath: /camel/*
+
+discount:
+  newDiscountPeriod: 10000
+  listDiscountPeriod: 15000
